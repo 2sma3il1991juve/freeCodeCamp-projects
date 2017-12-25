@@ -1,0 +1,14 @@
+html body {
+    background-color: black;
+
+}
+.nice-font
+{font-family:segoe script 
+}
+  .thick-black-border {
+    border-color: grey;
+    border-width: 5px;
+    border-style: groove;
+    border-radius: 80%;
+  }
+
