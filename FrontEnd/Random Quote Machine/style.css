@@ -1,0 +1,48 @@
+body {
+    background-color: #E7E5DF;
+}
+
+h1 {
+    color: #44BBA4;
+    font-family: fantasy;
+    font-size: 2em;
+}
+
+p {
+    color: #00FDDC;
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 1.5em;
+}
+
+.btn {
+    background-color: #00FDDC; /* Green */
+    color: #44BBA4;
+}
+
+.quote-container {
+    background-color: #FFA0A0;
+    border-color: #E7E5DF;
+    border-style: solid;
+    border-radius: 15%;
+    margin-top: 15px;
+    padding: 15px;
+    height: auto;
+    width: 33%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.quote {
+    color: #393E41;
+    font-style: italic;
+    font-size: 2em;
+    text-align: center;
+}
+
+.author {
+    color: #393E41;
+    font-style: italic;
+    font-size: 1em;
+    text-align: center;
+}
